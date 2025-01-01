@@ -24,8 +24,8 @@ I am looking for opportunities to apply my knowledge in Data Analysis and Data S
 Feel free to explore my repositories and reach out for collaboration or discussion! 😊
 
 📫 How to reach me:
-LinkedIn Profile: https://www.linkedin.com/in/vera-ilas-b0b1191ab/
-Email ilas.vera96@gmail.cpm
+LinkedIn Profile 🔗: https://www.linkedin.com/in/vera-ilas-b0b1191ab/
+Email 📧: ilas.vera96@gmail.cpm
 
 <!--
 **IVera96/IVera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
