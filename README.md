@@ -22,5 +22,4 @@ Feel free to explore my repositories and reach out for collaboration or discussi
 - Email 📧: ilas.vera96@gmail.com
 
 
-**IVera96/IVera96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
